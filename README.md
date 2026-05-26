@@ -16,13 +16,13 @@
 </div>
 <div align="center">
   <a href="https://github.com/HermanDmukhouski?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api?username=HermanDmukhouski&show_icons=true&count_private=true&hide_border=true&title_color=D70&text_color=888&icon_color=437&bg_color=0000"
+    <img src="./assets/stats.svg"
       title="Herman Dmukhouski GitHub stats"
       alt="Herman Dmukhouski GitHub stats"
       height="195"/>
   </a>
   <a href="https://github.com/HermanDmukhouski?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HermanDmukhouski&layout=compact&hide_border=true&title_color=D70&text_color=888&icon_color=437&bg_color=0000"
+    <img src="./assets/top-langs.svg"
       title="Herman Dmukhouski top languages"
       alt="Herman Dmukhouski top languages"
       height="195"/>
