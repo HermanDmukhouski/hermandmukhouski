@@ -8,24 +8,24 @@
 <!-- STATS -->
 <div align="center">
   <a href="https://github.com/HermanDmukhouski">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hermandmukhouski&hide_border=true&stroke=888&ring=437&fire=D70&currStreakNum=D70&sideNums=888&dates=888&sideLabels=888&currStreakLabel=D70&background=0000"
-      title="Herman Dmukhouski current streak" 
+    <img src="https://streak-stats.demolab.com/?user=HermanDmukhouski&hide_border=true&stroke=888&ring=437&fire=D70&currStreakNum=D70&sideNums=888&dates=888&sideLabels=888&currStreakLabel=D70&background=0000"
+      title="Herman Dmukhouski current streak"
       alt="Herman Dmukhouski current streak"
-      width="50%"/>
+      height="195"/>
   </a>
 </div>
 <div align="center">
   <a href="https://github.com/HermanDmukhouski?tab=repositories">
-     <img src="https://github-readme-stats.vercel.app/api?username=hermandmukhouski&show_icons=true&count_private=true&hide_border=true&title_color=D70&text_color=888&icon_color=437&bg_color=0000"
-      title="Herman Dmukhouski github repositories" 
-      alt="Herman Dmukhouski github stats"
-      width="51%"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=HermanDmukhouski&show_icons=true&count_private=true&hide_border=true&title_color=D70&text_color=888&icon_color=437&bg_color=0000"
+      title="Herman Dmukhouski GitHub stats"
+      alt="Herman Dmukhouski GitHub stats"
+      height="195"/>
   </a>
-  <a href="https://github.com/hermandmukhouski?tab=repositories">
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hermandmukhouski&&layout=compact&hide_border=true&title_color=D70&text_color=888&bg_color=0000"
-      title="hermandmukhouski github repositories"
-      alt="hermandmukhouski github stats"
-      width="40%"/>
+  <a href="https://github.com/HermanDmukhouski?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HermanDmukhouski&layout=compact&hide_border=true&title_color=D70&text_color=888&icon_color=437&bg_color=0000"
+      title="Herman Dmukhouski top languages"
+      alt="Herman Dmukhouski top languages"
+      height="195"/>
   </a>
 </div>
 <!-- STATS -->
@@ -87,29 +87,29 @@
       title="OpenCV" alt="OpenCV"
       width="40" height="30"/>
   </a>
-  <a href="https://git-scm.com/">
+  <a href="https://git-scm.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/git/git-original.svg"
       title="Git" alt="Git"
       width="40" height="30"/>
   </a>
-  <a href="https://github.com/">
+  <a href="https://github.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/github/github-original.svg"
       title="GitHub" alt="GitHub"
       width="40" height="30"/>
   </a>
-   <a href="https://swagger.io/">
+  <a href="https://swagger.io/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/swagger/swagger-original.svg"
       title="Swagger" alt="Swagger"
       width="40" height="30"/>
   </a>
-   <a href="https://www.postman.com/">
+  <a href="https://www.postman.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/postman/postman-original.svg"
       title="Postman" alt="Postman"
       width="40" height="30"/>
   </a>
-  <a href="https://code.visualstudio.com/">
+  <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vscode/vscode-original.svg"
-      title="VScode" alt="VScode"
+      title="VS Code" alt="VS Code"
       width="40" height="30"/>
   </a>
   <a href="https://en.wikipedia.org/wiki/SQL" target="_blank">
@@ -127,8 +127,8 @@
 
 <!-- FOOTER -->
 <div align="center">
-  <a href=mailto:dmukhovskiy.g@gmail.com>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=437&height=120&section=footer&text=Contact%20me&animation=fadeIn&fontColor=fff&fontSize=12&fontAlign=50&fontAlignY=80&descSize=20&descAlign=84&descAlignY=43" alt="mailto"/>
+  <a href="mailto:dmukhovskiy.g@gmail.com">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=437&height=120&section=footer&text=Contact%20me&animation=fadeIn&fontColor=fff&fontSize=12&fontAlign=50&fontAlignY=80&descSize=20&descAlign=84&descAlignY=43" alt="Contact me"/>
   </a>
 </div>
 <!-- FOOTER -->
